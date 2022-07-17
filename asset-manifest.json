@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Netart/static/css/main.5abf07d5.css",
+    "main.js": "/Netart/static/js/main.c672b36c.js",
+    "static/js/787.35e3aeaf.chunk.js": "/Netart/static/js/787.35e3aeaf.chunk.js",
+    "static/media/1.png": "/Netart/static/media/1.034f1e05a3752579e0b0.png",
+    "static/media/3.png": "/Netart/static/media/3.5d60ad109e474b0f68aa.png",
+    "static/media/2.png": "/Netart/static/media/2.8563a9b8604354554997.png",
+    "static/media/logo.png": "/Netart/static/media/logo.c3067270311d834dd695.png",
+    "index.html": "/Netart/index.html",
+    "main.5abf07d5.css.map": "/Netart/static/css/main.5abf07d5.css.map",
+    "main.c672b36c.js.map": "/Netart/static/js/main.c672b36c.js.map",
+    "787.35e3aeaf.chunk.js.map": "/Netart/static/js/787.35e3aeaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5abf07d5.css",
+    "static/js/main.c672b36c.js"
+  ]
+}
